@@ -10,4 +10,4 @@ else:
   if numOfLec >= 47:
     print('Not enough number of lectures!')
   else:
-    print('GRADUATED!!!')
+    print('GRADUATED!!!')   
